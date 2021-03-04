@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Abhay Kulshrestha</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">\nA biography, or simply bio, is a detailed description of a person\'s life. It involves more than just the basic facts like education, work, relationships, and death; it portrays a person\'s experience of these life events. Unlike a profile or curriculum vitae (), a biography presents a subject\'s life story,\n\n highlighting various aspects of their life, including intimate details of experience, and may include an analysis of the subject\'s personality.
+
+\n\nBiographical works are usually non-fiction, but fiction can also be used to portray a person\'s life.\n One in-depth form of biographical coverage is called legacy writing. Works in diverse media, from literature to film, form the genre known as biography.\n\n
+
+An authorized biography is written with the permission, cooperation, and at times, participation of a subject \nor a subject\'s heirs. An autobiography is written by the person himself or herself, sometimes with the assistance of a collaborator or ghostwriter.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
